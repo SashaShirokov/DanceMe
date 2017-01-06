@@ -1,0 +1,17 @@
+#test {
+	color: blue;
+}
+
+body {
+	color: #2f5572;
+	padding: 25px;
+	margin: 10px;
+	-webkit-columns: 300px;
+	   -moz-columns: 300px;
+	        columns: 300px;
+}
+
+.box a {
+	display: block;
+	padding: 10px;
+}

@@ -1,3 +1,19 @@
+$mainBlue: #2f5572;
+
 #test {
-	color: red;
+	color: blue;
+}
+
+body {
+	color: $mainBlue;
+	padding: 25px;
+	margin: 10px;
+	columns: 300px;
+}
+
+.box {
+	a {
+		display: block;
+		padding: 10px;
+	}
 }
